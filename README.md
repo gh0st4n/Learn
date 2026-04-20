@@ -15,3 +15,6 @@ Bug hunting (perburuan bug) adalah aktivitas etis mencari dan melaporkan kerenta
 
 ## Website
 Hasil Belajar : https://T4n-Labs.github.io/learn
+
+##### INFORMASI
+- Gw Menggunakan T4n OS(Based on Void Linux)
