@@ -5,9 +5,9 @@ Belajar Python, Zig &amp; Bug Hunting Menggunakan Claude AI
 Python adalah bahasa pemrograman tingkat tinggi yang populer, mudah dipelajari, dan serbaguna (general-purpose).
 - Halaman Utama : [INDEX](./Python/0.md)
 
-## Zig - **ON GOING**
+## Zig
 Zig adalah bahasa pemrograman dan rangkaian alat serbaguna untuk memelihara perangkat lunak yang tangguh, optimal, dan dapat digunakan kembali.
-- Halaman Utama : [Page1](./Zig/1.md)
+- Halaman Utama : [INDEX](./Zig/1.md)
 
 ## Bug Hunting - **ON GOING**
 Bug hunting (perburuan bug) adalah aktivitas etis mencari dan melaporkan kerentanan keamanan pada aplikasi atau sistem untuk mendapatkan imbalan (bounty).
