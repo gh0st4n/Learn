@@ -1,19 +1,9 @@
 # Learn
-Belajar Python, Zig &amp; Bug Hunting Menggunakan Claude AI
-
-## Python
+**Belajar Python**
 Python adalah bahasa pemrograman tingkat tinggi yang populer, mudah dipelajari, dan serbaguna (general-purpose).
-- Halaman Utama : [INDEX](./Python/0.md)
+- Daftar ISI : [INDEX](Python/0.md)
 
-## Zig
-Zig adalah bahasa pemrograman dan rangkaian alat serbaguna untuk memelihara perangkat lunak yang tangguh, optimal, dan dapat digunakan kembali.
-- Halaman Utama : [INDEX](./Zig/1.md)
-
-## Bug Hunting - **ON GOING**
-Bug hunting (perburuan bug) adalah aktivitas etis mencari dan melaporkan kerentanan keamanan pada aplikasi atau sistem untuk mendapatkan imbalan (bounty).
-- Halaman Utama : [Page1](./BugHunting/1.md)
-
-## Website - **COMING SOON**
+## Website
 Hasil Belajar : https://T4n-Labs.github.io/learn
 
 ##### INFORMASI
